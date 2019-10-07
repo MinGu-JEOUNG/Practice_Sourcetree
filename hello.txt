@@ -1,1 +1,4 @@
-hello
+<<<<<<< HEAD
+hello my name is
+=======
+>>>>>>> parent of a7cb105... add hello.txt
