@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+hello my name is
+=======
+>>>>>>> parent of a7cb105... add hello.txt
+=======
+hello my name is
+>>>>>>> develop
